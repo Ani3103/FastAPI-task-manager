@@ -1,4 +1,4 @@
-##🧩 FastAPI Task Manager API
+#🧩 FastAPI Task Manager API
 
 A secure, multi-user Task Management REST API built with FastAPI.
 Supports full CRUD operations for users and tasks, JWT-based authentication, and protected routes — all testable via interactive Swagger docs.
