@@ -1,11 +1,11 @@
-🧩 FastAPI Task Manager API
+##🧩 FastAPI Task Manager API
 
 A secure, multi-user Task Management REST API built with FastAPI.
 Supports full CRUD operations for users and tasks, JWT-based authentication, and protected routes — all testable via interactive Swagger docs.
 
 This project was built end-to-end to understand real backend workflows, from database modeling to authentication and API security.
 
-⚙️ Tech Stack
+##⚙️ Tech Stack
 
 Framework: FastAPI
 
@@ -19,7 +19,7 @@ Validation: Pydantic
 
 Docs: Swagger UI (/docs)
 
-🚀 Features
+##🚀 Features
 👤 User Management
 
 Create users with hashed passwords
@@ -28,7 +28,7 @@ Retrieve, update, and delete users
 
 One-to-many relationship: each user owns multiple tasks
 
-✅ Task Management
+##✅ Task Management
 
 Create, read, update, and delete tasks
 
